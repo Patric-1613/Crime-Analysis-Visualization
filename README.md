@@ -68,4 +68,4 @@ This repository includes a variety of visualizations to represent findings effec
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```bash  
-   git clone <repository_url>  
+   git clone <https://github.com/Patric-1613/Crime-Analysis-Visualization>  
